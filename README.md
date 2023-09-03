@@ -1,1 +1,1 @@
-This repository contains [utterances](https://utteranc.es/) comments for my website: [Zerodya.net](https://zerodya.net)
+This repository contains [giscus](https://giscus.app/) comments for my website: [Zerodya.net](https://zerodya.net)
